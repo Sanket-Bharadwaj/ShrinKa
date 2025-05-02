@@ -3,6 +3,8 @@
 
 ShrinKa is a simple web-based tool that allows users to generate QR codes and shorten URLs. It features a beautiful glassmorphic UI, supports light and dark modes, and includes smooth animations. The app remembers your theme preference using localStorage.
 
+#live_demo- https://shrinka-fcr8.onrender.com
+
 ## Features
 - **QR Code Generation**: Generate a QR code for any URL.
 - **URL Shortener**: Placeholder functionality for shortening URLs (can be integrated with an actual service).
